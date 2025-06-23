@@ -1,33 +1,10 @@
-Re-created my favorite game from scratch after the original website I used to play on shut down 😢
+Re-created my favorite game since the website I used to play it on shut down :(
 
-🎮 Features I Added
-✅ Score tracking
+# Learning
+The main thing I learned was how to do OOP (Object-Oriented Programming). I’ve always had trouble finishing projects, and I think the root of that problem was my lack of structure and organization. I mostly taught myself how to code, so I was never really taught how to structure a project—until now.
 
-✅ Level system (with increasing speed)
+My main focus was making the code so organized that I couldn’t mess things up (lol). I used a full OOP structure and followed a tutorial to learn from. I didn’t just copy and paste—I thought through every single function and fully understood how it works, and why it was written that way. One of the coolest things I learned was inheritance using .super(). I used it to make different Tetris pieces that all share the same base behavior from the main piece class.
 
-✅ Hard drop (instant fall)
+I also added some features of my own outside of the tutorial, like score tracking, a level system, and increasing speed as the game progresses. I plan to add a ghost piece that shows where the block will land using self.ghost, and eventually improve the UI and add a hold piece feature.
 
-🔜 Coming soon: ghost piece (visual indicator for drop position)
-
-🔜 Coming soon: hold piece (swap a piece out and save for later)
-
-🧠 What I Learned
-This wasn’t just a copy-paste tutorial — it was a deep dive into understanding how to actually build a game. Before this, I struggled with project structure and object-oriented programming (OOP), which held me back from completing real projects on my own.
-
-While building this, I learned to:
-
-Design classes and manage game state cleanly
-
-Use super() to efficiently inherit common behavior across different Tetris piece classes
-
-Write modular, reusable code instead of a big block of functions
-
-Think through how timers and events work in game loops (like pygame.USEREVENT for auto-dropping pieces)
-
-I didn’t just follow instructions — I internalized the logic and then added my own features from scratch.
-
-🌱 Why This Project Matters
-This was a turning point in my programming journey.
-It’s the first project where I finally felt OOP click. I now feel confident building structured programs and pushing through full projects — something I couldn’t say before.
-
-Before, I was just trying to “understand” concepts. Now I apply them.
+Overall, this was a great stepping stone. It taught me real structure, and now I feel like I can finally make full projects on my own without needing a tutorial.
